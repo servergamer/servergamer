@@ -1,2 +1,0 @@
-# servergamer
-Servergamer
